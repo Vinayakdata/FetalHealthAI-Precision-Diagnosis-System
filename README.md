@@ -1,6 +1,4 @@
-# Fetal-Health-Classification-System
-A research based on fetal health classification system.
-
+# FetalHealthAI: Precision Diagnosis System
 
 Fetal disease is a crucial healthcare problem which is faced by most of the females and infants in the world. As per studies, various types of healthcare solutions were provided to cope up with this problem. Doctors and physicians
 are providing various high tech solutions for these type of critical problems. In terms of survey done in United States, the mortality rate among infant babies has dropped 14% during the period of 2007 to 2017. Various low economy 
